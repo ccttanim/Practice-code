@@ -1,1 +1,2 @@
-# Practice-code-c-
+# C# Language practice code
+Welcome to the official repo for C# language design. This is where new C# language features are developed, adopted and specified.
